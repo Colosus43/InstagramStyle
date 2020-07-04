@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+    background-color: white;
+    width: 510px;
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.header-card > h3 {
+    float: left;
+    margin-left: 5px;
+}
+.header-card > p {
+    float: right;
+    margin-right: 5px;
+}
+img {
+    width: 100%;
+}
+
+.footer-card {
+    text-align: center;
+    margin: 10px;
+    
+}
